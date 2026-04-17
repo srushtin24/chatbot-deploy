@@ -13,3 +13,4 @@ sentence-transformers
 pymupdf
 python-dotenv
 pydantic
+langchain-chroma
